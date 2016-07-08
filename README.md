@@ -1,4 +1,4 @@
-# Homework2-AWS
+# Homework3-AWS
 
 1). Create your first Amazon EC2 instance (Linux)
 
